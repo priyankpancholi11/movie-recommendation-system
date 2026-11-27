@@ -1,0 +1,13 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.ipynb_checkpoints/
+tempCodeRunnerFile.py
+tempCodeRunnerFile.python
+.DS_Store
+Thumbs.db
+streamlit.py
